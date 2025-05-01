@@ -1,4 +1,7 @@
-## Hi there 👋
+### Awards
+| Competition | Result |
+|-------------|--------|
+| 제36회 키움증권 대학생 주식 모의투자대회 | 188th / 9,279 |
 
 <!--
 **Yoon-men/Yoon-men** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
